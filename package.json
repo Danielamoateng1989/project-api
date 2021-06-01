@@ -1,0 +1,22 @@
+{
+  "name": "project-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielamoateng1989/project-api.git"
+  },
+  "author": "Daniel Amoateng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danielamoateng1989/project-api/issues"
+  },
+  "homepage": "https://github.com/Danielamoateng1989/project-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
